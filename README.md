@@ -1,6 +1,5 @@
 
 # Algoritmos em Grafos
-Repositório de estudo sobre grafos
 
 Este projeto está sendo desenvolvido como parte da disciplina de Algoritmos em Grafos na UNIFEI.
 
